@@ -10,5 +10,5 @@ To reduce customer churn, telecom companies need to predict which customers are 
 
 In this project, you will analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
 
-The dataset is attached.
+The dataset can be downloaded from the link: https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
 
